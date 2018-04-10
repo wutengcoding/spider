@@ -1,0 +1,381 @@
+<html><head>
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+    <link rel="dns-prefetch" href="//s3.pstatp.com/">
+    <link rel="dns-prefetch" href="//s3a.pstatp.com/">
+    <link rel="dns-prefetch" href="//s3b.pstatp.com">
+    <link rel="dns-prefetch" href="//p1.pstatp.com/">
+    <link rel="dns-prefetch" href="//p3.pstatp.com/">
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+    
+    <meta name="baidu-site-verification" content="T239HZAbh7">
+    
+    <meta name="360-site-verification" content="b96e1758dfc9156a410a4fb9520c5956">
+    <meta name="360_ssp_verify" content="2ae4ad39552c45425bddb738efda3dbb">
+    <meta name="google-site-verification" content="3PYTTW0s7IAfkReV8wAECfjIdKY-bQeSkVTyJNZpBKE">
+    <meta name="shenma-site-verification" content="34c05607e2a9430ad4249ed48faaf7cb_1432711730">
+    <meta name="baidu_union_verify" content="b88dd3920f970845bad8ad9f90d687f7">
+    <meta name="domain_verify" content="pmrgi33nmfuw4ir2ej2g65lunfqw6ltdn5wselbcm52wszbchirdqyztge3tenrsgq3dknjume2tayrvmqytemlfmiydimddgu4gcnzcfqrhi2lnmvjwc5tfei5dcnbwhazdcobuhe2dqobrpu">
+    
+
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.toutiao.com/">
+<title>今日头条</title>
+<meta name="keywords" content="今日头条，头条，头条网，头条新闻，今日头条官网">
+<meta name="description" content="《今日头条》(www.toutiao.com)是一款基于数据挖掘的推荐引擎产品，它为用户推荐有价值的、个性化的信息，提供连接人与信息的新型服务，是国内移动互联网领域成长最快的产品服务之一。">
+
+    <meta name="format-detection" content="telephone=no">
+    <link rel="shortcut icon" href="//s3a.pstatp.com/toutiao/resource/ntoutiao_web/static/image/favicon_8e9c9c7.ico" type="image/x-icon">
+    <link rel="stylesheet" href="//s3a.pstatp.com/toutiao/resource/ntoutiao_web/static/style/lib/layout_5fcc025.css">
+    <!--[if lt IE 9]>
+      <script src="//s3a.pstatp.com/toutiao/resource/ntoutiao_web/static/js/lib/es5-shim_110642e.js"></script>
+    <![endif]-->
+    <script src="//s3.pstatp.com/toutiao/resource/ntoutiao_web/static/js/common/lib_060bfbf.js" crossorigin="anonymous"></script>
+    
+  <link rel="stylesheet" href="//s3b.pstatp.com/toutiao/resource/ntoutiao_web/page/home/whome/home_c2d1993.css">
+
+<style id="22006e8">.imga_wrapper{position:relative;display:inline-block;}.imga_flag{display: inline-block;position: absolute;bottom: 8px;left: 8px;border: 1px solid #fff;color: #fff;font-size: 12px;line-height: 12px;height: 12px;padding: 1px 2px;text-align: center;}</style><style id="3dc5186">.right-iframe-img{margin-bottom:16px; padding: 20px; background-color: #f4f5f6; position: relative; z-index: 1;}</style><style id="f2f2f2a">#imagindexhover{margin-top: -10px; padding: 0 20px; position: relative; z-index: 1;} #imagindexhover > ins{position: relative!important}</style><style id="c59fc7c">.right-iframe-img{margin-bottom:16px; padding: 20px; background-color: #f4f5f6; position: relative; z-index: 1;}</style><style id="47f0ebe">.right-iframe-img{margin-bottom:16px; padding: 20px; background-color: #f4f5f6; position: relative; z-index: 1;}</style></head>
+
+<body style="min-width: 1220px; overflow-x: hidden;">
+    
+
+    <a href="/articles_news_society/" style="display:none;"></a>
+
+    <div class="y-wrap">
+        
+<!-- 公共头部 -->
+<div id="header">
+  <div riot-tag="wtopbar" style="height: 34px; background: #222;"><div class="y-box wtopbar"> <ul class="y-left"> <li class="tb-item"> <a class="tb-link" href="http://app.toutiao.com/news_article/" target="_blank" ga_event="mh_nav_others">下载APP</a> </li> <li class="tb-item weather"> <a class="tb-link" href="javascript:;"> <span>&nbsp;北京</span> <span class="city_state">阴</span> <span class="city_temperature"> <em>0</em>° &nbsp;/&nbsp; <em>10</em>° </span> <i class="y-icon icon-more"></i> </a> <div class="weather-box"> <div riot-tag="weather" class="y-weather"><div class="w-header"> <span class="y-icon icon-location" ga_event="mh_change_city">&nbsp;北京</span> <span class="wind">东风1级</span> <span class="air" style="background: #5cbf4c">优 30</span> </div> <ul class="y-box days-weather show"> <li class="y-left day"> <span class="title">今天</span> <div title="阴" class="weather-icon weather-icon-2"></div> <span class="temperature"> <em>0</em>° / <em>10</em>° </span> </li> <li class="y-left day"> <span class="title">明天</span> <div title="多云" class="weather-icon weather-icon-1"></div> <span class="temperature"> <em>3</em>° / <em>10</em>° </span> </li> <li class="y-left day"> <span class="title">后天</span> <div title="多云" class="weather-icon weather-icon-1"></div> <span class="temperature"> <em>3</em>° / <em>12</em>° </span> </li> </ul> <div class="y-box city-select "> <div class="y-box"> <div class="y-left select-style"> <p class="y-box"> <span class="y-left name">北京</span> <span class="y-right y-icon icon-more"></span> </p> <div class="y-box province-list "> <a class="y-left item" href="javascript:;"> 贵州 </a><a class="y-left item" href="javascript:;"> 河南 </a><a class="y-left item" href="javascript:;"> 山东 </a><a class="y-left item" href="javascript:;"> 四川 </a><a class="y-left item" href="javascript:;"> 江苏 </a><a class="y-left item" href="javascript:;"> 青海 </a><a class="y-left item" href="javascript:;"> 新疆 </a><a class="y-left item" href="javascript:;"> 福建 </a><a class="y-left item" href="javascript:;"> 浙江 </a><a class="y-left item" href="javascript:;"> 湖北 </a><a class="y-left item" href="javascript:;"> 天津 </a><a class="y-left item" href="javascript:;"> 江西 </a><a class="y-left item" href="javascript:;"> 海南 </a><a class="y-left item" href="javascript:;"> 黑龙江 </a><a class="y-left item" href="javascript:;"> 重庆 </a><a class="y-left item" href="javascript:;"> 云南 </a><a class="y-left item" href="javascript:;"> 北京 </a><a class="y-left item" href="javascript:;"> 广西 </a><a class="y-left item" href="javascript:;"> 陕西 </a><a class="y-left item" href="javascript:;"> 甘肃 </a><a class="y-left item" href="javascript:;"> 河北 </a><a class="y-left item" href="javascript:;"> 吉林 </a><a class="y-left item" href="javascript:;"> 广东 </a><a class="y-left item" href="javascript:;"> 宁夏 </a><a class="y-left item" href="javascript:;"> 湖南 </a><a class="y-left item" href="javascript:;"> 安徽 </a><a class="y-left item" href="javascript:;"> 内蒙古 </a><a class="y-left item" href="javascript:;"> 上海 </a><a class="y-left item" href="javascript:;"> 山西 </a><a class="y-left item" href="javascript:;"> 西藏 </a><a class="y-left item" href="javascript:;"> 辽宁 </a><!--riot placeholder--> </div> </div> <div class="y-right select-style"> <p class="y-box"> <span class="y-left name">北京</span> <span class="y-right y-icon icon-more"></span> </p> <div class="y-box city-list "> <a class="y-left item" href="javascript:;"> 北京 </a><!--riot placeholder--> </div> </div> </div> <div class="y-box action"> <a href="javascript:;" class="y-left ok-btn">确定</a> <a href="javascript:;" class="y-right cancel-btn">取消</a> </div> </div></div> </div> </li> </ul>  <ul class="y-right"> <li class="tb-item userbox"> <div riot-tag="wuserbox" abtype="0" pageid="/news_finance/"><div class="y-box wuserbox">   <div class="nav-login"> <a ga_event="nav_login" href="javascript:;"> <span>登录</span> </a>  </div> </div></div> </li> <li class="tb-item"> <a class="tb-link" href="javascript:void(0)">反馈</a> </li> <li class="tb-item"> <a class="tb-link" href="https://mp.toutiao.com/profile_introduction/infringement/complain" ga_event="mh_nav_complain" target="_blank">投诉侵权</a> </li> <li class="tb-item more"> <a class="tb-link" href="/about/">头条产品</a> <div class="layer"> <ul> <li> <a href="https://www.wukong.com" class="layer-item" ga_event="mh_nav_others" target="_blank">问答</a> </li> <li> <a href="https://mp.toutiao.com/" class="layer-item" target="_blank" ga_event="mh_nav_others">头条号</a> </li> <li> <a href="https://tuchong.com/" class="layer-item" target="_blank" ga_event="mh_nav_others">图虫</a> </li> <li> <a href="https://stock.tuchong.com/?source=ttweb" target="_blank" ga_event="mh_nav_others" class="layer-item">正版图库</a> </li> <li> <a href="https://ad.toutiao.com/promotion/?source2=pchometop" class="layer-item" target="_blank" ga_event="mh_nav_ad">广告投放</a> </li> </ul> </div> </li> </ul> <div id="J_userFeedback"></div> </div></div>
+  
+</div>
+
+<div riot-tag="login"></div>
+<div id="toast"></div>
+
+
+<div class="y-box container">
+  <div class="y-left index-channel">
+    <div riot-tag="wchannel"><div ga_event="left-channel-click" class="wchannel "> <a class="logo" href="/"> <img src="//s3.pstatp.com/toutiao/resource/ntoutiao_web/static/image/logo_201f80d.png" alt=""> </a> <ul> <li onclick=""> <a class="wchannel-item " href="/" target="" ga_event="channel_recommand_click"> <span>推荐</span> </a> </li><li onclick=""> <a class="wchannel-item " href="/ch/news_hot/" target="" ga_event="channel_hot_click"> <span>热点</span> </a> </li><li onclick=""> <a class="wchannel-item " href="https://365yg.com/" target="_blank" ga_event="channel_video_click"> <span>阳光宽频</span> </a> </li><li onclick=""> <a class="wchannel-item " href="/ch/news_image/" target="_blank" ga_event="channel_image_click"> <span>图片</span> </a> </li><li onclick=""> <a class="wchannel-item " href="/ch/news_tech/" target="" ga_event="channel_technology_click"> <span>科技</span> </a> </li><li onclick=""> <a class="wchannel-item " href="/ch/news_entertainment/" target="" ga_event="channel_entertainment_click"> <span>娱乐</span> </a> </li><li onclick=""> <a class="wchannel-item " href="/ch/news_game/" target="" ga_event="channel_game_click"> <span>游戏</span> </a> </li><li onclick=""> <a class="wchannel-item " href="/ch/news_sports/" target="" ga_event="channel_sports_click"> <span>体育</span> </a> </li><li onclick=""> <a class="wchannel-item " href="/ch/news_car/" target="" ga_event="channel_car_click"> <span>汽车</span> </a> </li><li onclick=""> <a class="wchannel-item active" href="/ch/news_finance/" target="" ga_event="channel_finance_click"> <span>财经</span> </a> </li><li onclick=""> <a class="wchannel-item " href="/ch/funny/" target="" ga_event="channel_funny_click"> <span>搞笑</span> </a> </li><!--riot placeholder--> <li class="wchannel-more"> <a href="javascript:;" class="wchannel-item"> <span>更多</span> </a> <div class="wchannel-more-layer"> <ul> <li> <a class="y-left wchannel-item" href="/ch/news_military/" target="" ga_event="channel_military_click"> <span>军事</span> </a> </li><li> <a class="y-left wchannel-item" href="/ch/news_world/" target="" ga_event="channel_international_click"> <span>国际</span> </a> </li><li> <a class="y-left wchannel-item" href="/ch/news_fashion/" target="" ga_event="channel_fashion_click"> <span>时尚</span> </a> </li><li> <a class="y-left wchannel-item" href="/ch/news_travel/" target="" ga_event="channel_travel_click"> <span>旅游</span> </a> </li><li> <a class="y-left wchannel-item" href="/ch/news_discovery/" target="" ga_event="channel_explore_click"> <span>探索</span> </a> </li><li> <a class="y-left wchannel-item" href="/ch/news_baby/" target="" ga_event="channel_childcare_click"> <span>育儿</span> </a> </li><li> <a class="y-left wchannel-item" href="/ch/news_regimen/" target="" ga_event="channel_health_click"> <span>养生</span> </a> </li><li> <a class="y-left wchannel-item" href="/ch/news_essay/" target="" ga_event="channel_article_click"> <span>美文</span> </a> </li><li> <a class="y-left wchannel-item" href="/ch/news_history/" target="" ga_event="channel_history_click"> <span>历史</span> </a> </li><li> <a class="y-left wchannel-item" href="/ch/news_food/" target="" ga_event="channel_food_click"> <span>美食</span> </a> </li><!--riot placeholder--> </ul> </div> </li> </ul> </div></div>
+  </div>
+  <div class="y-left index-content">
+    
+    
+
+    <div riot-tag="subchannel" id="subchannel" class="subchannel"><ul name="subchannel" style="width: 660px;" ga_event="subchannel_click" class="sub-list "> <li class="sub-item sub-selected"> <a href="/ch/news_finance/">全部</a> </li><li class="sub-item "> <a href="/ch/investment/">投资</a> </li><li class="sub-item "> <a href="/ch/stock_channel/">股票</a> </li><li class="sub-item "> <a href="/ch/finance_management/">理财</a> </li><li class="sub-item "> <a href="/ch/macro_economic/">宏观经济</a> </li><!--riot placeholder--> </ul></div>
+    <div riot-tag="feedBox"><div class="feedBox" name="feedBox">  <div riot-tag="wcommonFeed" category="news_finance" abtype="0"><div class="wcommonFeed"> <div riot-tag="msgAlert" mwidth="660" mtop="500" category="news_finance"> <div class="msgAlert msgAlert-hidden">   <div style="background-color: #fff; height: 1px;"></div> </div></div> <ul> <li class="item J_add   " ga_event="ad_item_click" ad_id="93694786012" qihu_ad_id="" ad_track="" group_id="6540530110401872142" ad_show="1"> <span id="ad_extra" style="display:none;">{"ad_price":"WsS_av_8ZDlaxL9q__xkObbMk3bVrR7xblwsqQ","convert_component_suspend":0,"convert_id":0,"external_action":0,"req_id":"201804042004580100140182022608C6","rit":1}</span> <div class="item-inner y-box"> <div class="normal  "> <div class="rbox-inner"> <div class="title-box" ga_event="ad_title_click"> <a class="link title" target="_blank" href="http://www.gdxxb.com/97802"> 一个人，一把刀，一条狗，一只鲲，散人轻松终极 </a> </div> <div class="img-list y-box" ga_event="ad_img_click"> <a class="img-wrap" target="_blank" href="http://www.gdxxb.com/97802"> <img alt="" src="//p3.pstatp.com/list/190x124/76690003054c4bda6e02"> </a><a class="img-wrap" target="_blank" href="http://www.gdxxb.com/97802"> <img alt="" src="//p1.pstatp.com/list/190x124/7668000308c9d235d945"> </a><a class="img-wrap" target="_blank" href="http://www.gdxxb.com/97802"> <img alt="" src="//p1.pstatp.com/list/190x124/766a0002eda7c5336434"> </a><!--riot placeholder--> <a class="img-wrap" target="_blank" href="http://www.gdxxb.com/97802"> <span class="add-info">查看详情&nbsp;<i class="y-icon icon-next-page"></i></span> </a>  </div> <div class="y-box footer"> <div class="y-left">  <div class="y-left"> <a target="_blank" class="lbtn media-avatar avatar-bg-0" href="/search/?keyword=散人传说" ga_event="ad_avatar_click">散</a> <a class="lbtn source" target="_blank" href="/search/?keyword=散人传说" ga_event="ad_name_click">&nbsp;散人传说&nbsp;⋅</a> </div>  <span class="lbtn">&nbsp;20分钟前</span>   <a class="lbtn recommend" ga_event="ad_label_click" target="_blank" href="https://ad.toutiao.com/promotion/?source2=pcfeedadtag">广告</a> </div> <div class="y-right"> <span class="dislike" data-groupid="6540530110401872142" ga_event="ad_dislike_click"> 不感兴趣 <i class="y-icon icon-dislikenewfeed"></i> </span> </div> </div> </div> </div>  </div>   </li><li class="item    " ga_event="wenda_item_click" ad_id="" qihu_ad_id="" ad_track="" group_id="6475830238776393997"> <span id="ad_extra" style="display:none;"></span> <div class="item-inner y-box"> <div class="normal rbox "> <div class="rbox-inner"> <div class="title-box" ga_event="wenda_title_click"> <a class="link title" target="_blank" href="/group/6475830238776393997/"> 如果美国宣布不会偿还债务，会发生什么？ </a> </div>  <div class="y-box footer"> <div class="y-left">  <div class="y-left"> <a target="_blank" class="lbtn media-avatar avatar-bg-1" href="/search/?keyword=悟空问答" ga_event="wenda_avatar_click">悟</a> <a class="lbtn source" target="_blank" href="/search/?keyword=悟空问答" ga_event="wenda_name_click">&nbsp;悟空问答&nbsp;⋅</a> </div>  <span class="lbtn">&nbsp;30分钟前</span>    </div> <div class="y-right"> <span class="dislike" data-groupid="6475830238776393997" ga_event="wenda_dislike_click"> 不感兴趣 <i class="y-icon icon-dislikenewfeed"></i> </span> </div> </div> </div> </div> <div class="lbox" ga_event="wenda_img_click"> <a class="img-wrap" target="_blank" href="/group/6475830238776393997/"> <img alt="" src="//p3.pstatp.com/list/190x124/dd50000285a6002eff5">  </a> </div> </div>   </li><li class="item    " ga_event="article_item_click" ad_id="" qihu_ad_id="" ad_track="" group_id="6540512835200352781"> <span id="ad_extra" style="display:none;"></span> <div class="item-inner y-box"> <div class="normal rbox "> <div class="rbox-inner"> <div class="title-box" ga_event="article_title_click"> <a class="link title" target="_blank" href="/group/6540512835200352781/"> 下周大盘会跌破3000点吗？ </a> </div>  <div class="y-box footer"> <div class="y-left">   <div class="y-left"> <a class="lbtn media-avatar" target="_blank" ga_event="article_avatar_click" href="/c/user/7005036923/"> <img alt="" src="//p3.pstatp.com/large/97d001339782eb6117d"> </a> <a class="lbtn source" target="_blank" ga_event="article_name_click" href="/c/user/7005036923/">&nbsp;股海重生2015&nbsp;⋅</a> <a class="lbtn comment" target="_blank" ga_event="article_comment_click" href="/group/6540512835200352781//#comment_area">&nbsp;13评论&nbsp;⋅</a> </div> <span class="lbtn">&nbsp;40分钟前</span>    </div> <div class="y-right"> <span class="dislike" data-groupid="6540512835200352781" ga_event="article_dislike_click"> 不感兴趣 <i class="y-icon icon-dislikenewfeed"></i> </span> </div> </div> </div> </div> <div class="lbox" ga_event="article_img_click"> <a class="img-wrap" target="_blank" href="/group/6540512835200352781/"> <img alt="" src="//p9.pstatp.com/list/190x124/pgc-image/1522831516065c44cb265e1">  </a> </div> </div>   </li><li class="item    " ga_event="article_item_click" ad_id="" qihu_ad_id="" ad_track="" group_id="6540247286943842820"> <span id="ad_extra" style="display:none;"></span> <div class="item-inner y-box"> <div class="normal rbox "> <div class="rbox-inner"> <div class="title-box" ga_event="article_title_click"> <a class="link title" target="_blank" href="/group/6540247286943842820/"> 中国贸易反制让美股应声下跌释放的市场信号 </a> </div>  <div class="y-box footer"> <div class="y-left">   <div class="y-left"> <a class="lbtn media-avatar" target="_blank" ga_event="article_avatar_click" href="/c/user/5770251897/"> <img alt="" src="//p1.pstatp.com/large/ef4001785a8c2c9a3bb"> </a> <a class="lbtn source" target="_blank" ga_event="article_name_click" href="/c/user/5770251897/">&nbsp;每日经济新闻&nbsp;⋅</a> <a class="lbtn comment" target="_blank" ga_event="article_comment_click" href="/group/6540247286943842820//#comment_area">&nbsp;213评论&nbsp;⋅</a> </div> <span class="lbtn">&nbsp;50分钟前</span>    </div> <div class="y-right"> <span class="dislike" data-groupid="6540247286943842820" ga_event="article_dislike_click"> 不感兴趣 <i class="y-icon icon-dislikenewfeed"></i> </span> </div> </div> </div> </div> <div class="lbox" ga_event="article_img_click"> <a class="img-wrap" target="_blank" href="/group/6540247286943842820/"> <img alt="" src="//p1.pstatp.com/list/190x124/7575000d3a0a292823e9">  </a> </div> </div>   </li><li class="item    " ga_event="article_item_click" ad_id="" qihu_ad_id="" ad_track="" group_id="6540528055775920644"> <span id="ad_extra" style="display:none;"></span> <div class="item-inner y-box"> <div class="normal rbox "> <div class="rbox-inner"> <div class="title-box" ga_event="article_title_click"> <a class="link title" target="_blank" href="/group/6540528055775920644/"> 定了！央行下了铁命令！6月30日金融圈大终结！ </a> </div>  <div class="y-box footer"> <div class="y-left">   <div class="y-left"> <a class="lbtn media-avatar" target="_blank" ga_event="article_avatar_click" href="/c/user/5889662867/"> <img alt="" src="//p3.pstatp.com/large/4d0005d64c68e702ec"> </a> <a class="lbtn source" target="_blank" ga_event="article_name_click" href="/c/user/5889662867/">&nbsp;FRM学霸笔记&nbsp;⋅</a> <a class="lbtn comment" target="_blank" ga_event="article_comment_click" href="/group/6540528055775920644//#comment_area">&nbsp;9评论&nbsp;⋅</a> </div> <span class="lbtn">&nbsp;1小时前</span>    </div> <div class="y-right"> <span class="dislike" data-groupid="6540528055775920644" ga_event="article_dislike_click"> 不感兴趣 <i class="y-icon icon-dislikenewfeed"></i> </span> </div> </div> </div> </div> <div class="lbox" ga_event="article_img_click"> <a class="img-wrap" target="_blank" href="/group/6540528055775920644/"> <img alt="" src="//i0.pstatp.com/list/532c000d1cb1318f62dd">  </a> </div> </div>   </li><li class="item    " ga_event="refresh_item_click" ad_id="" qihu_ad_id="" ad_track="" group_id=""> <span id="ad_extra" style="display:none;"></span>   <div class="list-refresh-msg"> <span>看到这里</span> &nbsp;点击刷新&nbsp;<i class="y-icon icon-refreshfeed"></i> </div> </li><!--riot placeholder--> </ul> </div></div>    </div></div>
+  </div>
+  <div class="y-right index-modules">
+    <div id="module-place"></div>
+    <div class="module-inner" id="module-inner">
+      <div riot-tag="wsearch" style="margin-bottom: 16px;"><div name="searchBox" class="wsearch"> <form name="searchForm" action="/search/" method="get" target="_blank"> <div name="inputbox" class="y-box input-group"> <input class="y-left input-text" name="keyword" autocomplete="off" ga_event="mh_search" type="text" placeholder="请输入关键字"> <div class="y-right btn-submit"> <button type="submit" href="javascript:;"> <i class="y-icon icon-search" ga_event="mh_search"></i> </button> </div> </div> </form> <div class="layer "> <ul ga_event="mh_search"> <li class="search-item"> <a href="javascript:;"> <i class="search-no search-no-1">1</i>  <span class="search-txt">洪涛离职湖南卫视</span> </a> </li><li class="search-item"> <a href="javascript:;"> <i class="search-no search-no-2">2</i>  <span class="search-txt">理科生古风请假条</span> </a> </li><li class="search-item"> <a href="javascript:;"> <i class="search-no search-no-3">3</i>  <span class="search-txt">两岁男童迷烧水壶</span> </a> </li><li class="search-item"> <a href="javascript:;"> <i class="search-no search-no-4">4</i>  <span class="search-txt">今日头条被处罚</span> </a> </li><li class="search-item"> <a href="javascript:;"> <i class="search-no search-no-5">5</i>  <span class="search-txt">北京发布暴雪预警</span> </a> </li><li class="search-item"> <a href="javascript:;"> <i class="search-no search-no-6">6</i>  <span class="search-txt">万茜长发孕照热议</span> </a> </li><li class="search-item"> <a href="javascript:;"> <i class="search-no search-no-7">7</i>  <span class="search-txt">空间站核心舱曝光</span> </a> </li><li class="search-item"> <a href="javascript:;"> <i class="search-no search-no-8">8</i>  <span class="search-txt">臧鸿飞曝婚内出轨</span> </a> </li><li class="search-item"> <a href="javascript:;"> <i class="search-no search-no-9">9</i>  <span class="search-txt">豪饮九碗白酒身亡</span> </a> </li><li class="search-item"> <a href="javascript:;"> <i class="search-no search-no-10">10</i>  <span class="search-txt">美团收购摩拜单车</span> </a> </li><!--riot placeholder--> </ul> </div> </div></div>
+      
+      
+
+      <div class="right-top-1 right-iframe-img right-img" name="home_right*top_1" ad-cursor="1" ad_name="h_300*250_TB_314" done="1" show="1"><script src="//p.tanx.com/ex?i=mm_32479643_3494618_81668314" charset="gbk" id="tanx-s-mm_32479643_3494618_81668314"></script><a href="http://www.cnzz.com/stat/website.php?web_id=1259612802" target="_blank" title="站长统计">站长统计</a><script charset="utf-8" src="https://atanx.alicdn.com/t/tanxssp.js?_v=12"></script><ins style="display:inline-block;padding:0;margin:0;width:300px;height:250px;*zoom:1;*display:inline; position:relative;" id="tanxssp-outer-conmm_32479643_3494618_81668314"><div id="tanxssp_con_mm_32479643_3494618_81668314" style="overflow:hidden;display:inline-block;position:relative;width:300px;height:250px;*display:inline;*zoom:1;font:12px/1.5 tahoma,'Hiragino Sans GB','microsoft yahei',sans-serif;"><iframe id="tanxssp-tuwen-iframemm_32479643_3494618_81668314" src="//a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_81668314%26pvid%3d0bb4821800005ac4bf6c690d0025826a%26s%3d300x250%26d%3d59420271%26t%3d1522843500&amp;pid=mm_32479643_3494618_81668314&amp;tp=3&amp;tsid=0bb4821800005ac4bf6c690d0025826a&amp;u=https%3A%2F%2Fwww.toutiao.com%2Fch%2Fnews_finance%2F&amp;r=&amp;tp=3&amp;tsid=0bb4821800005ac4bf6c690d0025826a&amp;pid=mm_32479643_3494618_81668314" style="width:300px;height:250px" border="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true"></iframe><a id="iconmm_32479643_3494618_81668314" title="我也要申请橱窗推广" target="_blank" href="http://pro.taobao.com/index.htm?spm=a2320.7388781.1998051528.5.JOvNkN" style="overflow:hidden;width:15px;height:13px;right:20px;bottom:0px;display:block;position:absolute;cursor:pointer;z-index:250;">   <span id="icon_smallmm_32479643_3494618_81668314" style="border-right:2px solid #eee;float:none;width:13px;display:block;height:13px;box-sizing:content-box"><img src="//atanx.alicdn.com/t/img/TB1DmcoJXXXXXavXpXXXXXXXXXX-26-26.png" border="0" style="width:13px;height:13px;margin:auto;display:block;"></span>   <span id="icon_bigmm_32479643_3494618_81668314" style="float:none;width:60px;height:13px;display: none;"><img src="//atanx.alicdn.com/t/img/TB1Lt7aJXXXXXcjXVXXXXXXXXXX-117-26.png" style="width:60px;height:13px;margin:auto;display:block;" border="0/"></span></a><a id="sxmm_32479643_3494618_81668314" href="javascript:;" style="width:20px;height:13px;right:0px;bottom:0px;display:block;position:absolute;cursor:pointer;z-index:250;margin:0;">   <span id="sx1mm_32479643_3494618_81668314" style="float:none;width:20px;display:block;height:13px;"><img src="//atanx.alicdn.com/t/img/TB1tWvVJFXXXXc_aXXXXXXXXXXX-40-26.png" style="width:20px;height:13px;margin:auto;display:block;min-height:13px;" border="0/"></span><div id="sxtipmm_32479643_3494618_81668314" style="display:none;position:absolute;left:-38px;bottom:13px;"><img src="//atanx.alicdn.com/t/img/TB1upAiJXXXXXa5aXXXXXXXXXXX-116-30.png" style="width:58px;height:15px;margin:auto;display:block;min-height:15px;" border="0"></div></a></div></ins><a style="display:none;" id="tanx-a-mm_32479643_3494618_81668314"></a><script src="https://opehs.tanx.com/ex?i=mm_32479643_3494618_81668314&amp;cb=jsonp_callback_35219&amp;callback=&amp;userid=&amp;o=&amp;f=&amp;n=&amp;r=&amp;cg=a10e0d0705418718be491440c0817a6d&amp;pvid=a611e4f31ff81f01e7d42c7e9e1e3d15&amp;u=https%3A%2F%2Fwww.toutiao.com%2Fch%2Fnews_finance%2F&amp;psl=1&amp;fp=1.GttK4TlQU-JQvMXK4ty36QQpnWfCPr-Ws~wuFuOz8nRbQkcfF55FD3.UTF-8.lNylPTQsmohuZA.Q.1bqt6pg"></script></div>
+      <div style="height: 366px; overflow:hidden;">
+        <div id="m-hotNews">
+          <div riot-tag="hotNews" class="hotNews module" ga_event="click_hot_news"><div class="module-head news-head"> 24小时热闻 </div> <ul class="news-content"> <li class="news-list"> <a target="_blank" class="news-link" href="/group/6540511446520824323/"> <div class="module-pic news-pic"><img src="//p3.pstatp.com/list/240x240/pgc-image/15228356154351d21208f35"></div> <div class="news-inner"> <p class="module-title">国新办就中美贸易有关情况举行吹风会</p> </div> </a> </li><li class="news-list"> <a target="_blank" class="news-link" href="/group/6540512516806541832/"> <div class="module-pic news-pic"><img src="//p3.pstatp.com/list/240x240/78a90001db078c9eb6ff"></div> <div class="news-inner"> <p class="module-title">中方会否减持美国国债或让人民币贬值来反击美国？财政部回应</p> </div> </a> </li><li class="news-list"> <a target="_blank" class="news-link" href="/group/6540508382246208013/"> <div class="module-pic news-pic"><img src="//p1.pstatp.com/list/240x240/pgc-image/1522830765885b0d52b6baf"></div> <div class="news-inner"> <p class="module-title">2天内第二位65后女副部进京</p> </div> </a> </li><li class="news-list"> <a target="_blank" class="news-link" href="/group/6540431891592380942/"> <div class="module-pic news-pic"><img src="//p1.pstatp.com/list/240x240/pgc-image/15228127321685bf336576d"></div> <div class="news-inner"> <p class="module-title">对话拼多多黄峥：后流量时代，只有错位竞争才能生存</p> </div> </a> </li><!--riot placeholder--> </ul></div>
+          
+          <div id="imagindexhover" class="imagindexhover right-img" name="home_right*bottom_1" ad-cursor="1" ad_name="h_300*250_TB_340" done="1" show=""><script src="//p.tanx.com/ex?i=mm_32479643_3494618_63256340" id="tanx-s-mm_32479643_3494618_63256340" charset="gbk"></script><ins style="display:inline-block;padding:0;margin:0;width:300px;height:250px;*zoom:1;*display:inline; position:relative;" id="tanxssp-outer-conmm_32479643_3494618_63256340"><div id="tanxssp_con_mm_32479643_3494618_63256340" style="overflow:hidden;display:inline-block;position:relative;width:300px;height:250px;*display:inline;*zoom:1;font:12px/1.5 tahoma,'Hiragino Sans GB','microsoft yahei',sans-serif;"><iframe id="tanxssp-tuwen-iframemm_32479643_3494618_63256340" src="https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_63256340%26pvid%3d0bb4861f00035ac4bf6cbf4500288011%26s%3d300x250%26d%3d0%26t%3d1522843500&amp;pid=mm_32479643_3494618_63256340&amp;tp=5&amp;tsid=0bb4861f00035ac4bf6cbf4500288011&amp;pid=mm_32479643_3494618_63256340" style="width:300px;height:250px" border="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true"></iframe><a id="sxmm_32479643_3494618_63256340" href="javascript:;" style="width:20px;height:13px;right:0px;bottom:0px;display:block;position:absolute;cursor:pointer;z-index:250;margin:0;">   <span id="sx1mm_32479643_3494618_63256340" style="float:none;width:20px;display:block;height:13px;"><img src="//atanx.alicdn.com/t/img/TB1tWvVJFXXXXc_aXXXXXXXXXXX-40-26.png" style="width:20px;height:13px;margin:auto;display:block;min-height:13px;" border="0/"></span><div id="sxtipmm_32479643_3494618_63256340" style="display:none;position:absolute;left:-38px;bottom:13px;"><img src="//atanx.alicdn.com/t/img/TB1upAiJXXXXXa5aXXXXXXXXXXX-116-30.png" style="width:58px;height:15px;margin:auto;display:block;min-height:15px;" border="0"></div></a></div></ins><a style="display:none;" id="tanx-a-mm_32479643_3494618_63256340"></a><script src="https://opehs.tanx.com/ex?i=mm_32479643_3494618_63256340&amp;cb=jsonp_callback_87786&amp;callback=&amp;userid=&amp;o=&amp;f=&amp;n=&amp;r=&amp;cg=af120eca587a50a249bb61e86b290ba0&amp;pvid=a611e4f31ff81f01e7d42c7e9e1e3d15&amp;u=https%3A%2F%2Fwww.toutiao.com%2Fch%2Fnews_finance%2F&amp;psl=1&amp;fp=1.GttK4TlOUkwBf04QdzjJhg56H2UQ7ugKAOSG2t5HVOzJ83DTJYzV_3.UTF-8.lNylPTQsmohuZA.Q.1i91pre"></script></div>
+        </div>
+      </div>
+      
+      <div class="right-iframe-img right-img" name="home_right*top_2" ad-cursor="1" ad_name="h_300*250_TB_454" done="1" show=""><script src="//p.tanx.com/ex?i=mm_32479643_3494618_56064454" charset="gbk" id="tanx-s-mm_32479643_3494618_56064454"></script><ins style="display:inline-block;padding:0;margin:0;width:300px;height:250px;*zoom:1;*display:inline; position:relative;" id="tanxssp-outer-conmm_32479643_3494618_56064454"><div id="tanxssp_con_mm_32479643_3494618_56064454" style="overflow:hidden;display:inline-block;position:relative;width:300px;height:250px;*display:inline;*zoom:1;font:12px/1.5 tahoma,'Hiragino Sans GB','microsoft yahei',sans-serif;"><iframe id="tanxssp-tuwen-iframemm_32479643_3494618_56064454" src="https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_56064454%26pvid%3d0bb4826400005ac4bf6c69840022d043%26s%3d300x250%26d%3d0%26t%3d1522843500&amp;pid=mm_32479643_3494618_56064454&amp;tp=5&amp;tsid=0bb4826400005ac4bf6c69840022d043&amp;pid=mm_32479643_3494618_56064454" style="width:300px;height:250px" border="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true"></iframe><a id="sxmm_32479643_3494618_56064454" href="javascript:;" style="width:20px;height:13px;right:0px;bottom:0px;display:block;position:absolute;cursor:pointer;z-index:250;margin:0;">   <span id="sx1mm_32479643_3494618_56064454" style="float:none;width:20px;display:block;height:13px;"><img src="//atanx.alicdn.com/t/img/TB1tWvVJFXXXXc_aXXXXXXXXXXX-40-26.png" style="width:20px;height:13px;margin:auto;display:block;min-height:13px;" border="0/"></span><div id="sxtipmm_32479643_3494618_56064454" style="display:none;position:absolute;left:-38px;bottom:13px;"><img src="//atanx.alicdn.com/t/img/TB1upAiJXXXXXa5aXXXXXXXXXXX-116-30.png" style="width:58px;height:15px;margin:auto;display:block;min-height:15px;" border="0"></div></a></div></ins><a style="display:none;" id="tanx-a-mm_32479643_3494618_56064454"></a><script src="https://opehs.tanx.com/ex?i=mm_32479643_3494618_56064454&amp;cb=jsonp_callback_35246&amp;callback=&amp;userid=&amp;o=&amp;f=&amp;n=&amp;r=&amp;cg=abc1f334d3b69f94318aefeb095d1b5f&amp;pvid=a611e4f31ff81f01e7d42c7e9e1e3d15&amp;u=https%3A%2F%2Fwww.toutiao.com%2Fch%2Fnews_finance%2F&amp;psl=1&amp;fp=1.GttK4TlOS1vrw9NXeTj0O_dBrL2Sp~awVelHwoORaKLvCJmz5_pCw3.UTF-8.lNylPTQsmohuZA.Q.1fzop57"></script></div>
+      
+      <div riot-tag="adTab"></div>
+      
+      
+      <div class="right-iframe-img right-img" name="home_right*top_3" ad-cursor="1" ad_name="h_300*250_TB_483" done="1" show=""><script src="//p.tanx.com/ex?i=mm_32479643_3494618_56052483" charset="gbk" id="tanx-s-mm_32479643_3494618_56052483"></script><ins style="display:inline-block;padding:0;margin:0;width:300px;height:250px;*zoom:1;*display:inline; position:relative;" id="tanxssp-outer-conmm_32479643_3494618_56052483"><div id="tanxssp_con_mm_32479643_3494618_56052483" style="overflow:hidden;display:inline-block;position:relative;width:300px;height:250px;*display:inline;*zoom:1;font:12px/1.5 tahoma,'Hiragino Sans GB','microsoft yahei',sans-serif;"><iframe id="tanxssp-tuwen-iframemm_32479643_3494618_56052483" src="https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_56052483%26pvid%3d0bb4779200005ac4bf6c69c4002c6805%26s%3d300x250%26d%3d0%26t%3d1522843500&amp;pid=mm_32479643_3494618_56052483&amp;tp=5&amp;tsid=0bb4779200005ac4bf6c69c4002c6805&amp;pid=mm_32479643_3494618_56052483" style="width:300px;height:250px" border="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true"></iframe><a id="sxmm_32479643_3494618_56052483" href="javascript:;" style="width:20px;height:13px;right:0px;bottom:0px;display:block;position:absolute;cursor:pointer;z-index:250;margin:0;">   <span id="sx1mm_32479643_3494618_56052483" style="float:none;width:20px;display:block;height:13px;"><img src="//atanx.alicdn.com/t/img/TB1tWvVJFXXXXc_aXXXXXXXXXXX-40-26.png" style="width:20px;height:13px;margin:auto;display:block;min-height:13px;" border="0/"></span><div id="sxtipmm_32479643_3494618_56052483" style="display:none;position:absolute;left:-38px;bottom:13px;"><img src="//atanx.alicdn.com/t/img/TB1upAiJXXXXXa5aXXXXXXXXXXX-116-30.png" style="width:58px;height:15px;margin:auto;display:block;min-height:15px;" border="0"></div></a></div></ins><a style="display:none;" id="tanx-a-mm_32479643_3494618_56052483"></a><script src="https://opehs.tanx.com/ex?i=mm_32479643_3494618_56052483&amp;cb=jsonp_callback_3488&amp;callback=&amp;userid=&amp;o=&amp;f=&amp;n=&amp;r=&amp;cg=b0f43afcedfe9838651048d65616fed1&amp;pvid=a611e4f31ff81f01e7d42c7e9e1e3d15&amp;u=https%3A%2F%2Fwww.toutiao.com%2Fch%2Fnews_finance%2F&amp;psl=1&amp;fp=1.GttK4TlOS1vrw9NXeTj0O_dE1-WKi3T7Pg2K9~W_W6jbyGUrFTH3D3.UTF-8.lNylPTQsmohuZA.Q.1n4ypqi"></script></div>
+      <div riot-tag="whotpicture" class="whotpicture module" ga_event="click_pictures_recommend"><div class="module-head picture-head"> <a href="/news_image/" target="_blank">精彩图片</a> </div> <ul class="y-box picture-list"> <li class="y-left picture-item"> <a target="_blank" href="/group/6540413125806522894/"> <div class="module-pic picture-img"> <img alt="" src="//p3.pstatp.com/list/300x170/pgc-image/1522808160176cd25915b7c"> <i class="hot-tag"><span>23图</span></i> </div> <p>细思恐极！波兰插画师的23张醒脑图，看懂的人都怕了......</p> </a> </li><li class="y-left picture-item"> <a target="_blank" href="/group/6540427894999482887/"> <div class="module-pic picture-img"> <img alt="" src="//p1.pstatp.com/list/300x170/pgc-image/1522811578723e134dce8af"> <i class="hot-tag"><span>12图</span></i> </div> <p>妈妈看儿子最后一眼泪流满面，大学生离世父母帮其捐器官，救5人</p> </a> </li><li class="y-left picture-item"> <a target="_blank" href="/group/6540414953176695303/"> <div class="module-pic picture-img"> <img alt="" src="//p3.pstatp.com/list/300x170/pgc-image/1522808716817c1cdc6afed"> <i class="hot-tag"><span>15图</span></i> </div> <p>图画说聊斋志异（译文白话文）-毛狐</p> </a> </li><li class="y-left picture-item"> <a target="_blank" href="/group/6540441087461294606/"> <div class="module-pic picture-img"> <img alt="" src="//p1.pstatp.com/list/300x170/pgc-image/152280874038527c09d1324"> <i class="hot-tag"><span>7图</span></i> </div> <p>4岁被拐走20年后归来，他和母亲却难以交流，母亲这么说</p> </a> </li><li class="y-left picture-item"> <a target="_blank" href="/group/6534266238841913864/"> <div class="module-pic picture-img"> <img alt="" src="//p1.pstatp.com/list/300x170/pgc-image/1521371871432e5dec21de9"> <i class="hot-tag"><span>18图</span></i> </div> <p>一个时代的传奇，回顾大师李敖这一生中的一组经典影像</p> </a> </li><li class="y-left picture-item"> <a target="_blank" href="/group/6540233118337466888/"> <div class="module-pic picture-img"> <img alt="" src="//p1.pstatp.com/list/300x170/pgc-image/1522766415078fd0ee86592"> <i class="hot-tag"><span>18图</span></i> </div> <p>一群生活在极寒地带的人，吃生肉怕破坏食物精华</p> </a> </li><!--riot placeholder--> </ul></div>
+      <div class="more-items module" ga_event="click_friend_link">
+<div class="module-head more-items-head">更多</div>
+<div class="more-items-content">
+<ul>
+  <li class="item">
+      <a href="/about/" rel="nofollow">关于头条</a>
+  </li>
+  <li class="item">
+      <a href="/join/" rel="nofollow">加入头条</a>
+  </li>
+  <li class="item">
+      <a href="/report/" rel="nofollow">媒体报道</a>
+  </li>
+  <li class="item">
+      <a href="/media_partners/" rel="nofollow">媒体合作</a>
+  </li>
+  <li class="item">
+      <a href="/cooperation/" rel="nofollow">产品合作</a>
+  </li>
+  <li class="item">
+      <a href="/media_cooperation/" rel="nofollow">合作说明</a>
+  </li>
+  <li class="item">
+      <a href="https://ad.toutiao.com/promotion/?source2=pchomemore" target="_blank" rel="nofollow">广告投放</a>
+  </li>
+  <li class="item">
+      <a href="/contact/" rel="nofollow">联系我们</a>
+  </li>
+  <li class="item">
+      <a href="/user_agreement/" rel="nofollow">用户协议</a>
+  </li>
+  <li class="item">
+      <a href="https://mp.toutiao.com/profile_introduction/infringement/complain" rel="nofollow">侵权投诉</a>
+  </li>
+  <li class="item">
+      <a href="/corrupt_report/" rel="nofollow">廉洁举报</a>
+  </li>
+</ul>
+</div>
+</div>
+
+      <div class="friendLink module" ga_event="click_friend_link">
+<div class="module-head link-head">友情链接</div>
+<div class="link-content" id="friendLink">
+<ul>
+	<li class="item"><a target="_blank" href="http://www.gmw.cn/">光明网</a></li>
+	<li class="item"><a target="_blank" href="http://www.cnr.cn/">央广网</a></li>
+	<li class="item"><a target="_blank" href="http://www.cri.cn">国际在线</a></li>
+	<li class="item"><a target="_blank" href="http://www.tibet.cn/">中国西藏网</a></li>
+	<li class="item"><a target="_blank" href="http://www.cankaoxiaoxi.com/">参考消息</a></li>
+	<li class="item"><a target="_blank" href="http://www.huanqiu.com/">环球网</a></li>
+	<li class="item"><a target="_blank" href="http://www.cyol.com">中青在线</a></li>
+	<li class="item"><a target="_blank" href="http://www.youth.cn/">中青网</a></li>
+	<li class="item"><a target="_blank" href="http://www.haiwainet.cn/">海外网</a></li>
+	<li class="item"><a target="_blank" href="http://h5.china.com.cn">中国网</a></li>
+	<li class="item"><a target="_blank" href="http://www.k618.cn/">未来网</a></li>
+	<li class="item"><a target="_blank" href="http://qianlong.com/">千龙网</a></li>
+	<li class="item"><a target="_blank" href="http://www.bjnews.com.cn/">新京报</a></li>
+	<li class="item"><a target="_blank" href="http://www.ynet.com/">北青网</a></li>
+	<li class="item"><a target="_blank" href="http://www.fawan.com/">法制晚报</a></li>
+	<li class="item"><a target="_blank" href="http://www.morningpost.com.cn">北京晨报</a></li>
+	<li class="item"><a target="_blank" href="http://www.bbtnews.com.cn/">北京商报</a></li>
+	<li class="item"><a target="_blank" href="http://www.stardaily.com.cn/">北京娱乐信报</a></li>
+	<li class="item"><a target="_blank" href="http://www.oeeee.com/">奥一网</a></li>
+	<li class="item"><a target="_blank" href="http://www.ycwb.com/">金羊网</a></li>
+	<li class="item"><a target="_blank" href="http://www.hsw.cn/">华商网</a></li>
+	<li class="item"><a target="_blank" href="http://www.xinmin.cn">新民网</a></li>
+	<li class="item"><a target="_blank" href="http://www.rednet.cn/index.html">红网</a></li>
+	<li class="item"><a target="_blank" href="http://www.jschina.com.cn">中国江苏网</a></li>
+	<li class="item"><a target="_blank" href="http://www.jxnews.com.cn/">中国江西网</a></li>
+	<li class="item"><a target="_blank" href="http://www.iqilu.com/">齐鲁网</a></li>
+	<li class="item"><a target="_blank" href="http://www.hinews.cn/news/">南海网</a></li>
+	<li class="item"><a target="_blank" href="http://www.ahwang.cn/">安徽网</a></li>
+	<li class="item last"><a target="_blank" href="http://www.hebnews.cn/">河北新闻网</a></li>
+	<li class="item"><a target="_blank" href="http://www.mnw.cn/">闽南网</a></li>
+	<li class="item"><a target="_blank" href="http://www.hxnews.com/">海峡网</a></li>
+	<li class="item"><a target="_blank" href="http://www.voc.com.cn/">华声在线</a></li>
+	<li class="item"><a target="_blank" href="http://tv.cztv.com">中国蓝TV</a> </li>
+	<li class="item"><a target="_blank" href="http://www.lnd.com.cn/">北国网</a></li>
+	<li class="item"><a target="_blank" href="http://www.longhoo.net/">龙虎网</a></li>
+	<li class="item"><a target="_blank" href="http://www.timedg.com/">东莞时间网</a></li>
+	<li class="item"><a target="_blank" href="http://www.autohome.com.cn/">汽车之家</a></li>
+	<li class="item"><a target="_blank" href="http://www.onlylady.com/">Onlylady女人志</a></li>
+
+	<li class="item"><a target="_blank" href="http://123.chinaso.com/">中国搜索</a></li>
+	<li class="item"><a target="_blank" href="http://www.nbd.com.cn/">每日经济新闻</a></li>
+	<li class="item"><a target="_blank" href="http://www.cheshi.com/">网上车市</a></li>
+	<li class="item"><a target="_blank" href="http://www.news18a.com/">网通社汽车</a></li>
+	<li class="item"><a target="_blank" href="http://www.enorth.com.cn/">北方网</a></li>
+	
+</ul>
+</div>
+</div>
+
+      <div class="company">
+  <p class="J-company-name"> © 2018 今日头条 </p>
+
+  <a href="http://www.12377.cn/" target="_blank" ga_event="click_about">中国互联网举报中心 </a>
+
+  <a href="http://www.miibeian.gov.cn/" target="_blank" ga_event="click_about">京ICP证140141号 </a>
+
+  <div class="">
+    <a href="http://www.miibeian.gov.cn/" target="_blank" ga_event="click_about">京ICP备12025439号-3 
+    </a>
+    <a href="/license/" class="icp" target="_blank">网络文化经营许可证</a>
+  </div>
+  <p>京-非经营性-2016-0081</p>
+  <p>互联网药品信息服务资格证书</p>
+
+  <a href="/a3642705768/" target="_blank">跟帖评论自律管理承诺书 </a>
+  <span>违法和不良信息举报：010-58341833</span>
+  <span>公司名称：北京字节跳动科技有限公司</span>
+  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002023" target="_blank" ga_event="click_about"><img src="//s3.pstatp.com/toutiao/resource/ntoutiao_web/static/image/gongan_d0289dc.png">京公网安备 11000002002023号</a>
+</div>
+
+    </div>
+  </div>
+</div>
+
+<div class="action-feedback">
+  <div riot-tag="feedback" class="feedback"><ul> <li class="tool-item" title="刷新" ga_event="click_feed_newsrefresh"> <a href="javascript:;"> <i class="y-icon icon-refreshfeed"></i> </a> </li> <li class="tool-item go-top"> <a href="javascript:;"> <i class="y-icon icon-backtotopfeed"></i> </a> </li> </ul></div>
+</div>
+
+
+<div riot-tag="articleLayerBox"></div>
+
+    </div>
+
+    <script>
+        window.globals = window.globals || {};
+
+        window.taAnalysis && taAnalysis.setup({
+          c: '/news_finance/'
+        });
+        window.taAnalysis && taAnalysis.send('pageview', {});
+
+        utils.on(document.getElementsByTagName('body')[0], 'click', function(e) {
+            var target = utils.getTarget(e),
+                ga_event,
+                ga_category,
+                ga_label,
+                ga_value;
+
+            while(target && target.nodeName.toUpperCase() !== 'BODY') {
+                ga_event = utils.getAttribute(target, 'ga_event');
+                ga_category = utils.getAttribute(target, 'ga_category') || '/news_finance/';
+                ga_label = utils.getAttribute(target, 'ga_label');
+                ga_value = utils.getAttribute(target, 'ga_value') || 1;
+
+                ga_event && window._czc && _czc.push(["_trackEvent", ga_category, ga_event, ga_label, ga_value]);
+                ga_event && taAnalysis && taAnalysis.send('event', { ev: ga_event });
+                target = target.parentNode;
+            }
+        });
+
+        riot.observable(window);
+    </script>
+    <script src="//s2.pstatp.com/growth/confucius/confs/toutiao.web.toutiao_pc-pc-fe_switch.js?t=04042004"></script>
+    <script>
+      var PAGE_SWITCH = window['toutiao.web.toutiao_pc/pc/fe_switch'] || {};
+    </script>
+    
+<script type="text/javascript">
+  window.jsblock=function(){
+    setTimeout(function () {
+      window._czc && _czc.push(['_trackEvent', 'jsblock', 'home', 'block', 1, ''])
+    }, 1500);
+  }
+</script>
+<script src="//s3a.pstatp.com/toutiao/resource/ntoutiao_web/page/home/whome/home_d09f00f.js"></script>
+
+<script>
+  // 用户信息
+  var userInfo = {
+      id: 0,
+      name: '',
+      avatarUrl: '',
+      isPgc: false
+  };
+
+  var _data = {"real_time_news":[{"open_url":"\/group\/6540511446520824323\/","group_id":"6540511446520824323","image_url":"\/\/p3.pstatp.com\/list\/240x240\/pgc-image\/15228356154351d21208f35","title":"\u56fd\u65b0\u529e\u5c31\u4e2d\u7f8e\u8d38\u6613\u6709\u5173\u60c5\u51b5\u4e3e\u884c\u5439\u98ce\u4f1a"},{"open_url":"\/group\/6540512516806541832\/","group_id":"6540512516806541832","image_url":"\/\/p3.pstatp.com\/list\/240x240\/78a90001db078c9eb6ff","title":"\u4e2d\u65b9\u4f1a\u5426\u51cf\u6301\u7f8e\u56fd\u56fd\u503a\u6216\u8ba9\u4eba\u6c11\u5e01\u8d2c\u503c\u6765\u53cd\u51fb\u7f8e\u56fd\uff1f\u8d22\u653f\u90e8\u56de\u5e94"},{"open_url":"\/group\/6540508382246208013\/","group_id":"6540508382246208013","image_url":"\/\/p1.pstatp.com\/list\/240x240\/pgc-image\/1522830765885b0d52b6baf","title":"2\u5929\u5185\u7b2c\u4e8c\u4f4d65\u540e\u5973\u526f\u90e8\u8fdb\u4eac"},{"open_url":"\/group\/6540431891592380942\/","group_id":"6540431891592380942","image_url":"\/\/p1.pstatp.com\/list\/240x240\/pgc-image\/15228127321685bf336576d","title":"\u5bf9\u8bdd\u62fc\u591a\u591a\u9ec4\u5ce5\uff1a\u540e\u6d41\u91cf\u65f6\u4ee3\uff0c\u53ea\u6709\u9519\u4f4d\u7ade\u4e89\u624d\u80fd\u751f\u5b58"},{"open_url":"\/group\/6540480246364242440\/","group_id":"6540480246364242440","image_url":"\/\/p3.pstatp.com\/list\/240x240\/pgc-image\/15228237038503258bd82c6","title":"\u5fae\u5934\u6761\u53ef\u4ee5\u53d1\u5c0f\u89c6\u9891\u4e86\uff0c\u6652\u6e05\u660e\u5c0f\u957f\u5047\u62ff\u767e\u5143\u5956\u52b1!"},{"open_url":"\/group\/6540541379548807683\/","group_id":"6540541379548807683","image_url":"\/\/p3.pstatp.com\/list\/240x240\/7576000f6f2ad8903d79","title":"\u8d38\u6613\u6218\u7531\u4e2d\u56fd\u6311\u8d77? \u4e2d\u65b9\u4ee5\u7279\u6717\u666e\u201c\u53e3\u5934\u7985\u201d\u56de\u51fb\uff1a\u5047\u65b0\u95fb"},{"open_url":"\/group\/6540544071784464910\/","group_id":"6540544071784464910","image_url":"\/\/p3.pstatp.com\/list\/240x240\/pgc-image\/1522838943524d0a03ffd4e","title":"\u5218\u7ed3\u4e00\u5206\u522b\u4f1a\u89c1\u6d2a\u79c0\u67f1\u3001\u90c1\u6155\u660e"},{"open_url":"\/group\/6540519535772959246\/","group_id":"6540519535772959246","image_url":"\/\/p3.pstatp.com\/list\/240x240\/7578000dd3ca4749f552","title":"\u6253\u5927\u8c46\u724c\u662f\u4e0d\u662f\u201c\u7cbe\u786e\u6027\u6253\u51fb\u201d\u7279\u6717\u666e\uff1f\u4e2d\u65b9\u8fd9\u6837\u56de\u5e94\uff01"}]};
+
+  // 二级频道
+  var subchannels = [{"category":"news_finance","url":"\/\/www.toutiao.com\/news_finance\/","is_current":true,"name":"\u5168\u90e8"},{"category":"investment","url":"http:\/\/toutiao.com\/investment\/","is_current":false,"name":"\u6295\u8d44"},{"category":"stock_channel","url":"http:\/\/toutiao.com\/stock_channel\/","is_current":false,"name":"\u80a1\u7968"},{"category":"finance_management","url":"http:\/\/toutiao.com\/finance_management\/","is_current":false,"name":"\u7406\u8d22"},{"category":"macro_economic","url":"http:\/\/toutiao.com\/macro_economic\/","is_current":false,"name":"\u5b8f\u89c2\u7ecf\u6d4e"}];
+
+  var hotNews = _data.real_time_news;
+
+  var channelTypeMap = {
+    "essay_joke": 2,
+    "news_image": 3
+  };
+
+  var channelType =  channelTypeMap['news_finance'] || 1;
+
+  // ab测试控制
+  var ab_list_style = '0';
+
+  // 推荐效率测试
+  var use_feed_service = true;
+
+</script>
+
+<script>
+  (function() {
+    var _params = utils.getSearchParams();
+
+    if (_params['ab_list_style']) {
+      ab_list_style = _params['ab_list_style'];
+    }
+  })();
+</script>
+
+<script>
+  
+</script>
+
+
+<script>
+  riot.mount('wtopbar', {
+    home: true,
+    userInfo: userInfo,
+    abType: +ab_list_style,
+    pageId: '/news_finance/'
+  });
+</script>
+
+<script>
+  riot.mount('carouselBox', {});
+  riot.mount('wsearch', {});
+</script>
+
+<script>
+  riot.mount('feedBox', {
+    type: channelType,
+    category: 'news_finance',
+    widen: 1,
+    abType: +ab_list_style,
+    serviceType: use_feed_service
+  });
+</script>
+
+<script>
+  riot.mount('wchannel', {
+    tag: 'news_finance' == '__all__'?'/':'/ch/'+'news_finance'+'/',
+    province: '北京'
+  });
+  riot.mount('feedback', {
+    abType: +ab_list_style
+  });
+  riot.mount('verification');
+  subchannels && subchannels.length>0 && riot.mount('subchannel', {
+    subchannels: subchannels,
+    suspension: true
+  });
+</script>
+
+<script>
+  riot.mount('hotNews', {hotNews:hotNews});
+  riot.mount('whotvideo', {});
+  riot.mount('whotpicture', {});
+</script>
+<script>
+  var imgUrl = '/c/52s14xvjk4stvvu5od4ehd506xyawtxoduas0ge1jzqsqseobcg0lih/';
+</script>
+<script>
+  ;(function(win) {
+    var picVersion = win.PAGE_SWITCH && win.PAGE_SWITCH.picVersion;
+    var adScriptUrl = window.PAGE_SWITCH && window.PAGE_SWITCH.migScriptUrl ||
+      '//s3a.pstatp.com/toutiao/gallery_img/dist/img.min.js';
+    if (!picVersion) {
+      var d = new Date();
+      picVersion = d.getFullYear() + '' + (d.getMonth() + 1) + '' + d.getDate() + '_01';
+    }
+    var url = adScriptUrl + '?ver=' + picVersion;
+    window.utils && window.utils.loadScript(url, function() {
+      setTimeout(function() {
+        window.trigger('ad_put');
+      });
+    }, function() {
+      return window.jsblock();
+    });
+  })(window);
+</script><script src="//s3a.pstatp.com/toutiao/picc_mig/dist/img.min.js?ver=20180326_01" crossorigin="anonymous"></script>
+
+    <script src="//s95.cnzz.com/z_stat.php?id=1259612802&amp;web_id=1259612802" language="JavaScript"></script><script src="https://c.cnzz.com/core.php?web_id=1259612802&amp;t=z" charset="utf-8" type="text/javascript"></script>
+
+
+</body></html>
