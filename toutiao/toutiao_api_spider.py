@@ -33,28 +33,29 @@ def getASCP():
     return AS,CP
 
 
+def get_signature():
+    return execute_script("https://www.toutiao.com/ch/news_finance/", "return window.TAC.sign(0)")
 
-def get_url(max_behot_time,AS,CP):
+def get_url(max_behot_time,AS,CP,sig):
     url = 'https://www.toutiao.com/api/pc/feed/?category=news_finance&utm_source=toutiao&widen=1' \
            '&max_behot_time={0}' \
            '&max_behot_time_tmp={0}' \
            '&tadrequire=true' \
            '&as={1}' \
-           '&cp={2}&_signature=acd'.format(max_behot_time,AS,CP)
+           '&cp={2}&_signature={3}'.format(0,AS,CP,sig)
 
     print(url)
     return url
 
 def get_item(url):
-    cookies = {"tt_webid":"6540547118872249859",
-               "UM_distinctid": "1629053595141a-0dfc077bb0cb42-4446062d-100200-1629053595250c",
-               "uuid": "w:1f13cfb4b5e64ce195e83efc214c4349"
+    cookies = {"tt_webid":"6548654810030999043"
                }
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0'}
+    headers = {'User-Agent': user_agent}
 
-    wbdata = requests.get(url,headers=headers, cookies = cookies).content
+    wbdata = requests.get(url,  headers=headers, cookies=cookies).content
     wbdata2 = json.loads(wbdata)
     data = wbdata2['data']
+    print(data)
     for news in data:
         title = news['title']
         news_url = news['source_url']
@@ -69,16 +70,14 @@ def get_item(url):
     return next_max_behot_time
 
 
-refresh = 50
+refresh = 4
+sig = get_signature()
+print(sig)
 for x in range(0,refresh+1):
     print("第{0}次：".format(x))
-    if x == 0:
-        max_behot_time = 0
-    else:
-        max_behot_time = next_max_behot_time
-        print (max_behot_time)
+    max_behot_time = 0
 
     AS,CP = getASCP()
-    url = get_url(max_behot_time,AS,CP)
+    url = get_url(max_behot_time,AS,CP,sig)
     next_max_behot_time = get_item(url)
     time.sleep(1)

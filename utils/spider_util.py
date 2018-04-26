@@ -6,6 +6,14 @@ from selenium import webdriver
 import time
 import re
 import json
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+
+options = Options()
+user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.50 Safari/537.36'
+options.add_argument('--headless')
+options.add_argument(f'user-agent={user_agent}')
+driver = webdriver.Chrome(chrome_options=options, executable_path=r'd:\applications\chromedriver.exe')
 def get_logger(filename):
     import logging
     fh = logging.FileHandler(filename, encoding="utf-8")
@@ -29,12 +37,13 @@ def get_search_result_by_url(search_url):
     return s.get(search_url, headers=headers, timeout=timeout).content
 
 # 使用webdriver 加载公众号主页内容，主要是js渲染的部分
-def get_selenium_js_html(url):
-    browser = webdriver.PhantomJS(executable_path=r'D:\applications\phantomjs-2.1.1-windows\bin\phantomjs.exe')
+def execute_script(url, cmd="return document.documentElement.outerHTML"):
 
-    browser.get(url)
-    time.sleep(3)
-    # 执行js得到整个页面内容
-    html = browser.execute_script("return document.documentElement.outerHTML")
-    browser.close()
+
+    driver.get(url)
+    html = driver.execute_script(cmd)
+    # driver.close()
     return html
+
+if __name__ == '__main__':
+    print(execute_script("https://www.toutiao.com/ch/news_finance/", "return window.TAC.sign(0)"))

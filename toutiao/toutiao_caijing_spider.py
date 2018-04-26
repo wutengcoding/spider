@@ -9,7 +9,7 @@ def parse_article_detail(detail_url):
     return doc('div[class="article"]')('p')
 
 def init_index_html(url):
-    index_html = get_selenium_js_html(url)
+    index_html = execute_script(url)
     with open('test.index', 'w', encoding="utf-8") as f:
         f.write(index_html)
     return index_html
